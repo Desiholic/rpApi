@@ -8,5 +8,5 @@ const app = express();
 
 app.use('/api/followers', require('./routes/Followers'));
 
-const PORT = process.env.PORT || 7572;
+const PORT = process.env.PORT || 7500;
 app.listen(PORT, () => console.log(`Server started on port ${PORT}`));
