@@ -1,0 +1,8 @@
+const Config = {};
+
+Config.TWITTER_API_KEY='VX9nVUYuyx4zbwuFrXA3D7xOZ'
+Config.TWITTER_API_SECRET='I1mFBdBqhrXuVPNH821qnw2HU8cBuTZr4nsbDgVZDpdDCjnWSy'
+Config.TWITTER_ACCESS_TOKEN='1017110154490368003-yIeVyfTltdkkgGDNIXMG0Mtkvu0RAP'
+Config.TWITTER_ACCESS_TOKEN_SECRET='ID5rHrJIQgWaqk9dPHTmOprmfOhbsMzLkKOczalutdWNU'
+
+module.exports = Config
