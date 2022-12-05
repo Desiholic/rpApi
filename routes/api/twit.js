@@ -1,5 +1,5 @@
 require('dotenv').config();
-const twit = require("twit");
+const twit = require('twit')
 
 const T = new twit({
   consumer_key: process.env.TWITTER_API_KEY,
